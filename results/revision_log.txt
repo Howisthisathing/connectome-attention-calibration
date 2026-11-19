@@ -1,0 +1,16 @@
+5 masked topology done
+5 leakage_free profile 0 {'logistic': 0.0118, 'gradient_boosting': 0.036}
+5 leakage_free profile 3 {'logistic': 0.0142, 'gradient_boosting': 0.0323}
+5 leakage_free profile 4 {'logistic': 0.0166, 'gradient_boosting': 0.0336}
+5 leakage_free identity 0 {'logistic': 0.004, 'gradient_boosting': 0.0094}
+5 leakage_free identity 3 {'logistic': 0.0187, 'gradient_boosting': 0.0521}
+5 leakage_free identity 4 {'logistic': 0.0101, 'gradient_boosting': 0.0216}
+5 leaky profile 0 {'logistic': 0.0141, 'gradient_boosting': 0.0654}
+5 leaky profile 3 {'logistic': 0.0178, 'gradient_boosting': 0.0559}
+5 leaky profile 4 {'logistic': 0.0176, 'gradient_boosting': 0.0562}
+5 leaky identity 0 {'logistic': 0.0009, 'gradient_boosting': 0.0103}
+5 leaky identity 3 {'logistic': 0.0261, 'gradient_boosting': 0.0792}
+5 leaky identity 4 {'logistic': 0.0059, 'gradient_boosting': 0.0368}
+6 profile [-0.4077308751309305, 0.031255076307569817]
+6 identity [-0.35564325416197723, 0.022646668713056435]
+saved

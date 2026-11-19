@@ -1,0 +1,77 @@
+{
+  "pre_qc": {
+    "n_connectomes": 1064,
+    "n_nodes": [
+      83
+    ],
+    "density": [
+      0.22606932405948754,
+      0.026183321277826552
+    ],
+    "isolated_node_instances": 12106,
+    "isolated_pct": 13.708216323942384,
+    "r_isolated_vs_density": -0.4197150206146104
+  },
+  "edge_partial": {
+    "profile": {
+      "FA_mean": {
+        "mean_over_seeds": -0.04159431293692543,
+        "sd_over_seeds": 0.021873932005318127,
+        "seed0_mean": -0.042395983245373074,
+        "seed0_sd_over_subjects": 0.10112134888355825,
+        "seed0_CI95_of_mean": [
+          -0.058576472768203186,
+          -0.026499523225922927
+        ],
+        "seed0_range95_of_subjects": [
+          -0.2251750690258139,
+          0.15569581724349998
+        ]
+      },
+      "fiber_length_mean": {
+        "mean_over_seeds": -0.09743638815045289,
+        "sd_over_seeds": 0.03147383007324844,
+        "seed0_mean": -0.12785350672968804,
+        "seed0_sd_over_subjects": 0.05282507439806883,
+        "seed0_CI95_of_mean": [
+          -0.13615309739168546,
+          -0.11924055824837798
+        ],
+        "seed0_range95_of_subjects": [
+          -0.23355991313899632,
+          -0.023692679363313377
+        ]
+      }
+    },
+    "identity": {
+      "FA_mean": {
+        "mean_over_seeds": -0.05336908682944756,
+        "sd_over_seeds": 0.01962630384282976,
+        "seed0_mean": -0.0846843785209288,
+        "seed0_sd_over_subjects": 0.08883334921820159,
+        "seed0_CI95_of_mean": [
+          -0.0995762150530702,
+          -0.07056868592642859
+        ],
+        "seed0_range95_of_subjects": [
+          -0.24646519428373076,
+          0.085485052122482
+        ]
+      },
+      "fiber_length_mean": {
+        "mean_over_seeds": -0.058613314898599354,
+        "sd_over_seeds": 0.0621053621216097,
+        "seed0_mean": -0.05599928373349065,
+        "seed0_sd_over_subjects": 0.06639601967077051,
+        "seed0_CI95_of_mean": [
+          -0.06704519143798338,
+          -0.04540090197496539
+        ],
+        "seed0_range95_of_subjects": [
+          -0.18035010948385233,
+          0.07684198008727158
+        ]
+      }
+    }
+  }
+}
